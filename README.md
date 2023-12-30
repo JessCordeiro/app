@@ -4,19 +4,17 @@ Kotlin <br>
 Coroutines <br>
 Flow <br>
 StateFlow <br>
-Koin 
-Hilt
-JetPack
-LiveData 
-ViewBinding 
-ViewPager2 
-ViewModel 
-SharedViewModel 
-Room Persistence 
-MVVM Architecture (View - DataBinding - ViewModel - Model)
-Repository pattern (NetworkBoundResource)
-Clean Architecture approach.
-Retrofit2 & OkHttp3 - Construct the REST APIs.
-Moshi 
-Glide 
+Koin <br>
+Hilt <br>
+JetPack <br>
+LiveData <br>
+ViewBinding <br>
+ViewPager2 <br>
+ViewModel <br>
+SharedViewModel <br>
+Room Persistence <br>
+MVVM Architecture (View - DataBinding - ViewModel - Model) <br>
+Retrofit2 & OkHttp3 <br>
+Moshi <br>
+Glide <br>
 
